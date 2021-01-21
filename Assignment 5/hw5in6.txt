@@ -1,0 +1,25 @@
+AddEvent 0101 NewYear'sDay
+AddEvent 0412 Easter
+AddEvent 0413 EasterMonday
+DisplayAllEvents
+DisplayEvent 0413
+AddEvent 0501 LabourDay
+AddEvent 0508 VictoryInEuropeDay
+PrintSkipList
+AddEvent 0521 AscensionDay
+DisplayEventsBetweenDates 0501 0501
+AddEvent 0601 WhitMonday
+DeleteEvent 0508
+DisplayEventsFromStartDate 0101
+AddEvent 0714 BastilleDay
+DisplayEventsToEndDate 1231
+AddEvent 0815 FeastOfAssumption
+DeleteEvent 0214
+PrintSkipList
+AddEvent 1101 AllSaints'Day
+AddEvent 1111 ArmisticeDay
+AddEvent 1225 ChristmasDay
+PrintSkipList
+DisplayEvent 1111
+DeleteEvent 1111 
+DisplayEvent 1111

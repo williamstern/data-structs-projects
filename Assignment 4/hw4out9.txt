@@ -1,0 +1,26 @@
+// When calling hw4in1.txt & hw4action9.txt
+
+RecommendSongs Emily song4 5 song5 5
+PrintCustomerDistanceRatings
+      Alice      4 2 0 2 0 0 5 3 3 2
+1.600 Bob        0 0 1 2 0 3 5 1 1 5
+1.250 Carol      0 2 0 0 2 1 0 1 1 2
+1.167 David      2 2 0 2 1 2 3 1 3 0
+1.000 Emily      0 4 0 2 5 5 4 3 0 3
+AddCustomer Eli 0 4 0 2 5 5 4 3 0 3
+RecommendSongs Eli song4 5 song5 5
+AddCustomer Johnny 0 3 0 2 4 4 4 3 0 3
+RecommendSongs Johnny song4 4 song5 4
+AddCustomer Joshua 0 3 0 2 4 4 4 3 0 3
+RecommendSongs Johnny song4 4 song5 4
+AddCustomer Angelica 0 0 0 0 0 0 0 0 0 0
+PrintCustomerDistanceRatings
+      Alice      4 2 0 2 0 0 5 3 3 2
+----- Angelica   0 0 0 0 0 0 0 0 0 0
+1.600 Bob        0 0 1 2 0 3 5 1 1 5
+1.250 Carol      0 2 0 0 2 1 0 1 1 2
+1.167 David      2 2 0 2 1 2 3 1 3 0
+1.000 Eli        0 4 0 2 5 5 4 3 0 3
+1.000 Emily      0 4 0 2 5 5 4 3 0 3
+0.800 Johnny     0 3 0 2 4 4 4 3 0 3
+0.800 Joshua     0 3 0 2 4 4 4 3 0 3

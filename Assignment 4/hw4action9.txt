@@ -1,0 +1,10 @@
+RecommendSongs
+PrintCustomerDistanceRatings
+AddCustomer Eli 0 4 0 2 5 5 4 3 0 3
+RecommendSongs
+AddCustomer Johnny 0 3 0 2 4 4 4 3 0 3
+RecommendSongs
+AddCustomer Joshua 0 3 0 2 4 4 4 3 0 3
+RecommendSongs
+AddCustomer Angelica 0 0 0 0 0 0 0 0 0 0
+PrintCustomerDistanceRatings

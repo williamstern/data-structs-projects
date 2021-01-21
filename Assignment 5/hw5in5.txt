@@ -1,0 +1,26 @@
+AddEvent 0702 Ribeye
+AddEvent 0716 Hamburger
+AddEvent 0719 Lasagna
+AddEvent 0704 HotDogs
+AddEvent 0725 Subs
+AddEvent 0707 CarlSucksDay
+PrintSkipList
+DisplayEventsToEndDate 0709
+AddEvent 0731 Chicken
+AddEvent 0720 Macaroni
+AddEvent 0706 PorkChops
+DisplayAllEvents
+PrintSkipList
+DisplayEvent 0707
+DeleteEvent 0704
+DeleteEvent 0706
+DeleteEvent 0725
+DeleteEvent 0708
+DeleteEvent 0719
+DeleteEvent 0716
+DeleteEvent 0720
+DeleteEvent 0731
+DeleteEvent 0707
+DeleteEvent 0702
+DeleteEvent 0707
+PrintSkipList

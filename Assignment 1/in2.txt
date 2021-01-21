@@ -1,0 +1,16 @@
+ChatRequest 0800 George wait
+ChatRequest 0805 Harry wait
+ChatRequest 0810 Iven wait
+PrintAvailableRepList 0813
+ChatRequest 0815 John wait
+ChatRequest 0820 Kate wait
+ChatRequest 0825 Lily wait
+ChatRequest 0826 Michael wait
+ChatRequest 0830 Nick wait
+ChatRequest 0835 Oliver later
+ChatEnded John David 0900
+ChatEnded George Alice 0910
+QuitOnHold 0920 Nick
+ChatRequest 0930 PIII later
+PrintMaxWaitTime 1000
+PrintAvailableRepList 1100

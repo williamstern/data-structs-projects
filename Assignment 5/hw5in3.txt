@@ -1,0 +1,26 @@
+AddEvent 0509 Mother'sDay
+AddEvent 0404 Easter
+AddEvent 0101 NewYearsDay
+AddEvent 0214 ValentinesDay
+AddEvent 0118 MLKJrDay
+AddEvent 0704 IndependenceDay
+AddEvent 0317 StPatricksDay
+AddEvent 1225 ChristmasDay
+AddEvent 1224 ChristmasEve
+AddEvent 0620 Father'sDay
+AddEvent 1231 NewYearsEve
+AddEvent 1125 Thanksgiving
+AddEvent 0906 LaborDay
+AddEvent 1031 Halloween
+AddEvent 0413 RamadanStarts
+AddEvent 0917 BestDayInHumanHistory
+PrintSkipList
+DisplayEventsToEndDate 0531
+DisplayEventsFromStartDate 1024
+DisplayEventsBetweenDates 0701 1231
+DisplayEventsBetweenDates 0101 0630
+DisplayEvent 0917
+DeleteEvent 0620
+DeleteEvent 0815
+AddEvent 0917 AmericanEagleDay
+PrintSkipList

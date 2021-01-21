@@ -1,0 +1,17 @@
+NumberOfAllSupervisors postsecondary
+DirectSubordinates IRS
+DirectSupervisor AMC
+AllSubordinates treasury
+AllSubordinates agriculture
+CompareRank FORSCOM foodSafety
+IsSubordinate agriculture marineCorps
+DirectSupervisor airForce
+DirectSubordinates education
+AllSupervisors secretariat
+NumberOfAllSupervisors defense
+NumberOfAllSubordinates defense
+IsSupervisor marineCorps usPresident
+IsSubordinate education civilRights
+CompareRank treasurer army
+ClosestCommonSupervisor treasurer army
+ClosestCommonSupervisor airForceOffice army

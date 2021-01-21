@@ -1,0 +1,34 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "",
+            "args": "${command:SpecifyProgramArgs}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-hw3<Ass3_16988985>",
+            "request": "launch",
+            "mainClass": "hw3",
+            "projectName": "Ass3_16988985"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-hw1",
+            "request": "launch",
+            "mainClass": "hw1"
+        }
+    ]
+}
